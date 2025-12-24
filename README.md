@@ -11,5 +11,3 @@
 - Stack
 - Queue
 
-## Progress
-- Day 1: Started DSA practice 🚀

@@ -24,3 +24,4 @@ int threeSumClosest(vector<int>& nums, int target) {
     }
     return closest;
 }
+};

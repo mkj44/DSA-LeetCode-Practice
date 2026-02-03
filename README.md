@@ -7,7 +7,5 @@
 ## Topics
 - Arrays
 - Strings
-- Linked List
-- Stack
-- Queue
+
 

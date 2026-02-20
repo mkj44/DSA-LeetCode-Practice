@@ -1,4 +1,4 @@
-# DSA Practice (LeetCode)
+# DSA Practice 
 
 👨‍💻 Daily DSA practice in C++  
 🎯 Goal: Strong DSA & Interview Prep  
